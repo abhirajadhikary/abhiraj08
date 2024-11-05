@@ -9,6 +9,5 @@
 | **Total** | **73** | **3343** | ![Total](https://progress-bar.dev/2/?width=100&color=blue) |
 
 **Ranking:** 1308451
-
-> Generated using [LeetCode Stats](https://leetcode-stats-card.herokuapp.com)
+            
             
